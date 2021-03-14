@@ -1,0 +1,18 @@
+{
+  "name": "Welcome!",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:welcome",
+  "pages": [
+    {
+      "type": "text",
+      "priority": true,
+      "text": "Hello there, $(playername)! So, you decided to come along for the Magical Mischief Tour after all? We are so happy to have you here. Sadly we can't be with you in person to welcome you but as a small compensation we left a little guide to give some guidance on your travels. In this book you can find both general and specific help on how to enjoy"
+    },
+    {
+      "type": "text",
+      "priority": true,
+      "text": "The Tour and overcome some of it's obstacles.$(br2)And again, welcome to The Tour! Now, go out there and have some fun."
+    }
+  ]
+}
+

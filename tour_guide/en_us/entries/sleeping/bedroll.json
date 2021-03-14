@@ -1,0 +1,33 @@
+{
+  "name": "Sleeping under the stars",
+  "icon": "druidcraft:orange_bedroll",
+  "category": "patchouli:sleeping",
+  "pages": [
+    {
+      "type": "text",
+      "priority": true,
+      "text": "There are multiple ways to make a bedroll. Maybe it's best to quickly go through them and any special considerations."
+    },
+    {
+      "type": "crafting",
+      "recipe": "druidcraft:white_bedroll",
+      "text": "This is the only design that fits the straps on the $(l:inventory_management/travel_pack#dc_travel_pack)Travel Pack$(/l)",
+      "anchor": "dc_bedroll"
+    },
+    {
+      "type": "crafting",
+      "recipe": "travelersbackpack:sleeping_bag",
+      "text": "This is made to fit on the Traveler's Backpack and will not be usable separately.",
+      "anchor": "tb_sleeping_bag"
+    },
+    {
+      "type": "crafting",
+      "recipe": "upgrade_aquatic:bedroll"
+    },
+    {
+      "type": "crafting",
+      "recipe": "comforts:sleeping_bag_white"
+    }
+  ]
+}
+

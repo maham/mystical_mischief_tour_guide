@@ -1,0 +1,11 @@
+{
+  "name": "The End",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:dimensions",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The End, but more"
+    }
+  ]
+}

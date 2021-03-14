@@ -1,0 +1,11 @@
+{
+  "name": "The Undergarden",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:dimensions",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A dark and scary place?"
+    }
+  ]
+}

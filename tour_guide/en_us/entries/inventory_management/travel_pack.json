@@ -1,0 +1,19 @@
+{
+  "name": "Travel Pack",
+  "icon": "druidcraft:travel_pack",
+  "category": "patchouli:inventory_management",
+  "pages": [
+    {
+      "type": "text",
+      "priority": true,
+      "text": "Pretty soon the sack we gave you won't cut it anymore. If you can just get your hands on some leather and a couple of iron nuggets you could probably use your DIY skills to remake a sack into something a lot more comfortable to carry when traveling. As an added bonus this pack doesn't have to be placed to access it's contents."
+    },
+    {
+      "type": "crafting",
+      "recipe": "druidcraft:travel_pack",
+      "text": "You even have a way to strap your $(l:sleeping/bedroll#dc_bedroll)Bedroll$(/l) to the pack. Too bad only that type of bedroll fits there.",
+      "anchor": "dc_travel_pack"
+    }
+  ]
+}
+

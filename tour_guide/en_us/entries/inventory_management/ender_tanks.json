@@ -1,0 +1,11 @@
+{
+  "name": "Ender Tank",
+  "icon": "enderstorage:ender_tank",
+  "category": "patchouli:inventory_management",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ender tank description"
+    }
+  ]
+}
