@@ -1,0 +1,17 @@
+{
+  "name": "Sack",
+  "icon": "supplementaries:sack",
+  "category": "patchouli:adventuring/portable_storage",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The sack that you got as a goodie bag is actually kind of neat. You can place it down on the ground or hang it from a branch or ceiling when you need to rummage through your belongings. And it retains it's inventory when broken, like a Shulker Box. It isn't very roomy with only five slots. Also it's rather cumbersome."
+    },
+    {
+      "type": "crafting",
+      "recipe": "supplementaries:sack"
+    }
+  ]
+}
+

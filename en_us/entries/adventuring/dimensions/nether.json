@@ -1,0 +1,11 @@
+{
+  "name": "The Nether",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:adventuring/dimensions",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Out of the frying pan, into the fire."
+    }
+  ]
+}

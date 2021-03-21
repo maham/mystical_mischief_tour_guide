@@ -1,0 +1,11 @@
+{
+  "name": "Occultism",
+  "icon": "occultism:datura",
+  "category": "patchouli:magic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "About Occultism"
+    }
+  ]
+}

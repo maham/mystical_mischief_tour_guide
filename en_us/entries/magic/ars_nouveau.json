@@ -1,0 +1,11 @@
+{
+  "name": "Ars Nouveau",
+  "icon": "ars_nouveau:novice_spell_book",
+  "category": "patchouli:magic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "About Ars Nouveau"
+    }
+  ]
+}

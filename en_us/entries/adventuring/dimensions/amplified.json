@@ -1,0 +1,11 @@
+{
+  "name": "Ultra Amplified Dimension",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:adventuring/dimensions",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Layers, like a cake, but messier, and with glowstone"
+    }
+  ]
+}

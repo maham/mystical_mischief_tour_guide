@@ -1,0 +1,11 @@
+{
+  "name": "Astral Sorcery",
+  "icon": "astralsorcery:wand",
+  "category": "patchouli:magic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "About Astral Sorcery"
+    }
+  ]
+}

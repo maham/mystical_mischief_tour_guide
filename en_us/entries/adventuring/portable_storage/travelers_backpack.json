@@ -1,0 +1,23 @@
+{
+  "name": "Travelers Backpack",
+  "icon": "travelersbackpack:standard",
+  "category": "patchouli:adventuring/portable_storage",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "If the Travel Pack is still not enough for your spoils it's time for the ultimate upgrade, the Traveler's Backpack. Not only does it have ample room for all your belongings. It also have a crafting table, a sleeping bag and two fluid containers built into it. Remaking the Travel Pack into this is a little more involved but should really be a breeze for a worn adventurer like yourself."
+    },
+    {
+      "type": "crafting",
+      "recipe": "travelersbackpack:standard",
+      "text": "The Travel Pack is used here. But the bedroll can't be made to fit so you will have to make a new one. All components needed will be shown on the following pages."
+    },
+    {
+      "type": "crafting",
+      "recipe": "travelersbackpack:backpack_tank",
+      "recipe2": "travelersbackpack:sleeping_bag"
+    }
+  ]
+}
+

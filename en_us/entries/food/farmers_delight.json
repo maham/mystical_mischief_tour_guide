@@ -1,0 +1,11 @@
+{
+  "name": "You got to eat",
+  "icon": "farmersdelight:roast_chicken",
+  "category": "patchouli:food",
+  "pages": [
+    {
+      "type": "text",
+      "text": "All about food on The Tour"
+    }
+  ]
+}

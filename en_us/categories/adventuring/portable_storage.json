@@ -1,0 +1,7 @@
+{
+  "name": "Portable Storage",
+  "sortnum": 0,
+  "description": "How to carry all your loot",
+  "icon": "travelersbackpack:standard",
+  "parent": "patchouli:adventuring"
+}

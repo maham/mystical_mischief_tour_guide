@@ -1,0 +1,11 @@
+{
+  "name": "Mana and Artifice",
+  "icon": "mana-and-artifice:magic_broom",
+  "category": "patchouli:magic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "About Mana and e"
+    }
+  ]
+}
