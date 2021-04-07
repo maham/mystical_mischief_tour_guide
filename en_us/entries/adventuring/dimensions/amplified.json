@@ -6,6 +6,26 @@
     {
       "type": "text",
       "text": "Layers, like a cake, but messier, and with glowstone"
+    },
+    {
+      "type": "multiblock",
+      "name": "Portal",
+      "multiblock":  {
+        "pattern": [
+          ["GUG", "UUU", "GUG"],
+          ["   ", " D ", "   "],
+          ["GLG", "L0L", "GLG"]
+        ],
+        "mapping": {
+          "U": "minecraft:polished_andesite_slab[type=top]",
+          "L": "minecraft:polished_andesite_slab[type=bottom]",
+          "0": "minecraft:polished_andesite_slab[type=bottom]",
+          "G": "minecraft:polished_granite",
+          "D": "minecraft:polished_diorite"
+        },
+        "symmetrical": true
+      },
+      "text": "To finalize the portal just us a flint and steel on the diorite block in the middle."
     }
   ]
 }

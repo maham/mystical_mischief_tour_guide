@@ -1,0 +1,14 @@
+{
+  "name": "Goodie Bag",
+  "icon": "supplementaries:sack",
+  "category": "patchouli:welcome",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "priority": true,
+      "text": "You may have noticed that you have a goodie bag in your inventory. This $(l:adventuring/portable_storage/sack)Sack$(/l) contains a snack, a cup of tea and everything you need to send your first snail mail when you have found a place to settle down."
+    }
+  ]
+}
+
