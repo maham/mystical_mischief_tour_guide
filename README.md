@@ -3,6 +3,11 @@
 ### Sections ###
 
 - Welcome page
+- Market and Bounties
+  - Market
+  - Bounty Boards
+  - Decrees
+  - Lost Trinkets
 - Dimensions - Overview of which and how to get there
   - The Nether / The End (maybe not needed)
   - UAD

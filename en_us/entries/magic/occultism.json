@@ -5,7 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "About Occultism"
+      "text": "Short presentation"
+    },
+    {
+      "type": "text",
+      "text": "How to get started."
+    },
+    {
+      "type": "text",
+      "text": "Notable features"
     }
   ]
 }

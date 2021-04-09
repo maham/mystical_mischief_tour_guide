@@ -1,0 +1,6 @@
+{
+  "name": "Market and Bounties",
+  "sortnum": 1,
+  "description": "The market gives access to some pretty powerful items. But to buy them you will need RC which in turn comes in the form of coins. To get your hands on some coins you can do bounties from the bounty board.",
+  "icon": "calemiutils:market"
+}
