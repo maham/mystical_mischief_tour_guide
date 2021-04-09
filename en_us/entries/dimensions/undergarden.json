@@ -1,0 +1,43 @@
+{
+  "name": "The Undergarden",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:dimensions",
+  "pages": [
+    {
+      "type": "image",
+      "images": [
+        "mmtguider:images/undergarden_view.png"
+      ],
+      "title": "The Undergarden",
+      "text": "Deep beneath the bedrock lies many mysterious realms. One is called The Undergarden."
+    },
+    {
+      "type": "text",
+      "text": "To travel to The Undergarden you need to build a portal and a $(l:dimensions/undergarden#catalyst)Catalyst$(/l). The portal is built the same way as a classical Nether portal but made out of stone bricks and it's activated using the Catalyst on the bottom inner frame of the portal frame."
+    },
+    {
+      "type": "multiblock",
+      "name": "portal",
+      "multiblock": {
+        "pattern": [
+          ["SSSS"],
+          ["S  S"],
+          ["S  S"],
+          ["S  S"],
+          ["S0SS"]
+        ],
+        "mapping": {
+          "S": "minecraft:stone_bricks",
+          "0": "minecraft:stone_bricks"
+        },
+        "symmetrical": true
+      },
+      "text": "To activate the portal click the inner bottom frame with a Catalyst."
+    },
+    {
+      "type": "crafting",
+      "recipe": "undergarden:catalyst",
+      "anchor": "catalyst"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "name": "Ultra Amplified Dimension",
   "icon": "minecraft:written_book",
-  "category": "patchouli:adventuring/dimensions",
+  "category": "patchouli:dimensions",
   "pages": [
     {
       "type": "text",
-      "text": "Layers, like a cake, but messier, and with glowstone"
+      "text": "If you find the Overworld a bit boring and want something more exotic to explore, or set up shop in for that matter, you can go visit the Ultra Amplified Dimension where you will find layers upon layers of ground. To get there you need to craft a portal as described on the next page."
     },
     {
       "type": "multiblock",

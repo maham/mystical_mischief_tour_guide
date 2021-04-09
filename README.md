@@ -1,15 +1,50 @@
-## The Magical Mischief Tour Guide
+## The Magical Mischief Tour Guide ##
 
-### Structure
+### Sections ###
 
-Welcome page::
-
-Dimensions::
-
-* Overview of magic mods
-* Overview of storage options (crates, crates and occultism)
-* Useful stuff with short introductions to items and blocks that are fun or useful
-
-
+- Welcome page
+- Dimensions - Overview of which and how to get there
+  - The Nether / The End (maybe not needed)
+  - UAD
+  - Undergarden
+  - Good Night's Sleep
+- Magic - Overview of mods and how to get started
+  - Ars Nouveau
+  - Astral Sourcery
+  - Eidolon
+  - Elementalcraft
+  - Evil Craft
+  - Mana and Artifice
+  - Occultism
+- Non-magic - Overview of other notable mods like Create
+  - Create
+  - Greek Fantasy
+  - Immersive Engineering
+  - Snail Mail
+  - Tetra
+- Food - Overview of food related mods
+  - Croc Pot
+  - Farmers Delight
+- Building
+  - Blockcarpentry
+  - Building Gadgets
+  - Platforms
+  - TableChair
+  - Transport
+- Automation
+  - Botany Pots
+  - Pretty pipes
+  - Tiny Mob Farm
+- Exploration
+  - Hats
+  - Lootr
+  - Passable leaves
+- Transportation
+  - Broom
+  - Mounts
+  - Portals
+  - Wyrmroost
+  - Unicorns
+  
 ### Todo
 

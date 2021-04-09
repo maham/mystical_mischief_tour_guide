@@ -1,0 +1,29 @@
+{
+  "name": "The Nether",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:dimensions",
+  "pages": [
+    {
+      "type": "image",
+      "images": [
+        "mmtguider:images/dimensional_rift.png"
+      ],
+      "title": "Dimensional rift"
+    },
+    {
+      "type": "text",
+      "text": "To go to the nether a rectangle of obsidian is no longer enough. You will have to delve deep underground and find a dimensional rift. Look for nether blocks like netherrack, obsidian, black rock etc. Just be aware that this is a one way trip. To get back to the Overworld you will have to find a Monolith. $(br2)$(o)note: you can bucket the Dimensional Plasma to make a portal closer to home."
+    },
+    {
+      "type": "image",
+      "images": [
+        "mmtguider:images/monolith.png"
+      ],
+      "title": "Monolith"
+    },
+    {
+      "type": "text",
+      "text": "When you find a Monolith you will have to repair it by placing gold blocks on all four sides of the Reclaimer. Then just enter the beam and fly off back to the Overworld. $(br2)$(o)note: if you enter the beam of an inactive Reclaimer you will float upwards. Wonder what fun you can have with that..."
+    }
+  ]
+}

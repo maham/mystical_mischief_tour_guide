@@ -1,0 +1,39 @@
+{
+  "name": "Good Nights Sleep",
+  "icon": "minecraft:written_book",
+  "category": "patchouli:dimensions",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Are you tired from your adventuring? Maybe it's time to get a Good Night's Sleep? When you have found a Despair Mushroom and a Hope Mushroom you can craft youself a Strange Bed. When it's time to tuck in for some well deserved rest, be aware that you never know if you will have a Good Dream or a Nightmare..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "good_nights_sleep:strange_bed"
+    },
+    {
+      "type": "image",
+      "images": [
+        "mmtguider:images/good_dreamland.png"
+      ],
+      "text": "If you have a good dream you come to a land of candy and unicorns."
+    },
+    {
+      "type": "crafting",
+      "recipe": "good_nights_sleep:luxurious_bed",
+      "text": "If you want to be certain you always have a good dream you can craft the Luxurious Bed. The Positite Gem you get from Positite Ore found underground."
+    },
+    {
+      "type": "image",
+      "images": [
+        "mmtguider:images/nightmare_dreamland.png"
+      ],
+      "text": "The nightmare realm is dark and scary."
+    },
+    {
+      "type": "crafting",
+      "recipe": "good_nights_sleep:wretched_bed",
+      "text": "If you want to be certain you always have a nightmare you can craft the Wretched Bed. The Negatite Gem you get from Negatite Ore found underground."
+    }
+  ]
+}
