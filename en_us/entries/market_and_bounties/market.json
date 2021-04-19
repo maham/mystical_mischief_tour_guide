@@ -1,0 +1,17 @@
+{
+  "name": "The Market",
+  "icon": "calemiutils:market",
+  "category": "patchouli:market_and_bounties",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "In the Market you can buy various things with the money you earn from Bounties. Some items are mostly for convenience but most of them are Lost Trinkets that can give you superpowers. To get started just craft a Market and place it down."
+    },
+    {
+        "type": "crafting",
+        "recipe": "calemiutils:blocks/market",
+        "text": "Apart from a little iron and gold you will need a dollar to get started with the market."
+    }
+  ]
+}

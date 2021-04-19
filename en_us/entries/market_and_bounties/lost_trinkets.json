@@ -1,0 +1,24 @@
+{
+  "name": "Lost Trinkets",
+  "icon": "losttrinkets:butchers_cleaver",
+  "category": "patchouli:market_and_bounties",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lost Trinkets provides a variety of Trinkets that can alter your gameplay in various ways. The trinkets can provide things like faster attack speed, cobwebs are destroyed just by walking into them or even the ability to ride pigs without a Carrot on a Stick."
+    },
+    {
+      "type": "text",
+      "text": "When you start you will already have a Butcher's Cleaver trinket in your inventory. To add it to your repertoire you just use it. To activate it you need to press $(k:losttrinkets.trinket). Here you will be presented with a '+' and a lock. If you press the plus you can activate the trinket and while it's active there is a chance of animals dropping bones when killed."
+    },
+    {
+      "type": "text",
+      "text": "To activate the possibility for another active trinket you press the lock icon. If you have enough XP, currently set to 15, it will change into a new slot to have active trinkes in."
+    },
+    {
+      "type": "text",
+      "text": "To try to balance the pack a bit some of the more powerful trinkes are disabled. There is also a restriction on how many active trinkets you can have. Currently it's set to two."
+    }
+  ]
+}

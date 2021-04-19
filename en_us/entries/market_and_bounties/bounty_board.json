@@ -1,0 +1,25 @@
+{
+  "name": "Bounty Board",
+  "icon": "bountiful:bountyboard",
+  "category": "patchouli:market_and_bounties",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Bounty Board is the main source of RC that you can use to buy things from the Market."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bountiful:crafting/bountyboard",
+      "text": "The most exotic item needed to craft the board is a diamond."
+    },
+    {
+      "type": "text",
+      "text": "The Bounty Board will slowly fill with different bounties that you can choose to take on. When you have fulfilled the Bounty just go back to the Board and right click it with the bounty to claim your prize."
+    },
+    {
+      "type": "text",
+      "text": "The type of objectives and rewards on the Board is determined by the, up to three, Decrees in the slots to the right. An Armorsmithing Decree will for example have objectives and rewards related to armor. New decrees can be bought from high level villagers or rewarded from bounties."
+    }
+  ]
+}
