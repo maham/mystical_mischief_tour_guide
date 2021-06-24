@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "Short presentation"
+      "text": "Use the power of the four true elemental sources and bending them to your will."
     },
     {
       "type": "text",
-      "text": "How to get started."
+      "text": "Mine Inert Crystals from ore then craft some Contained Crystals from them.  The basic Industry you will then need to make is an Extractor, an Infusor, two tanks, and some pipes."
     },
     {
       "type": "text",
-      "text": "Notable features"
+      "text": "You can use your Industry to extract elemental power from nodes you find in the world (they look close to old Thaumcraft nodes).  With that you can find ways to channel those elements into effects in the world.  You are able to make spells with it, double your ore, improve crop growth, and turn stone into lava.  It can even act like a Vacuum hopper, speed up tile entities and use the power of infusion for....totally legit things!"
     }
   ]
 }

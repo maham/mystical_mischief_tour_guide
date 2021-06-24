@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "Short presentation"
+      "text": "Eidolon is a magic themed mod with a dark perspective around necromancy and soul manipulation but the rewards can be strong."
     },
     {
       "type": "text",
-      "text": "How to get started."
+      "text": "To get started, get some rotten flesh, a book, and craft them to make your Ara Ecclesia.  This book is your guidebook to the mod, containing much information on how to progress, do rituals, master the power of Theurgy and Artifice!"
     },
     {
       "type": "text",
-      "text": "Notable features"
+      "text": "Some of the Rituals can change the time of day, summon minor monsters, and keeps monsters away from your base.  With the Artifice knowledge you can craft a varierty of gear/weaponry with unique abilities.  Early on you can even craft Enchanted Ash, while is placed like Redstone but prevents mobs from crossing it."
     }
   ]
 }

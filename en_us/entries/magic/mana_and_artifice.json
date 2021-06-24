@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "Short presentation"
+      "text": "Ever played Ars Magica 2 on 1.7.10?  Well, you should have.  This is essentially Ars Magica 3, made by the same mod Author, Mithion.  But it's not quite as simple as the first one, and takes a bit of work to progress through the mod."
     },
     {
       "type": "text",
-      "text": "How to get started."
+      "text": "To get started in Mana & Artifice you will need to find some Vinteum Ore.  After that, smelt the ore to make Vinteum bars and check the Codex Arcana guidebook; it's really good.  Then comes the hard part, finding a Spellmonger Villager to make a Runeforge.  But don't despaif if you can't find one, there's ways to craft them; check your Codex Arcana!"
     },
     {
       "type": "text",
-      "text": "Notable features"
+      "text": "There are numerous, highly customizeabls spell combinations you can make.  As you cast your spells you level their effectiveness, and the element assigned to them.  Cast more fire spells for example, you will become better at fire but worse at water.  The Codex Arcana has a tremendous guide on how to level your skills and knowledge into higher tier spells, but the process is not for the faint of heart.  This is because several of the high-tier spells and artifacts are locked to a certain faction, and once you join a faction there is no going back!"
     }
   ]
 }
