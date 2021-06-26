@@ -1,0 +1,19 @@
+{
+  "name": "Hats",
+  "icon": "conjurer_illager:conjurer_hat",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Hats is a customisable collectable mod bringing in plenty of, as the name suggests, HATS for your player to wear."
+    },
+    {
+      "type": "text",
+      "text": "See any strange looking mobs with some funny hat on? Kill it and you can add the hat to your wearable/customizable collection! You can even trade with other players."
+    },
+    {
+      "type": "text",
+      "text": "Every hat is able to have its colour changed within the GUI and can be customised with their accessories. Trade with others too!"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Create",
+  "icon": "create:schematicannon",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Redstone has evolved into cogs and gears powered by rotational power!"
+    },
+    {
+      "type": "text",
+      "text": "Grab some andesite, iron, and wood! Use these to make a basic water wheel with water pouring over it and you can now power your simplest creations! 'Ponder' on them to learn more."
+    },
+    {
+      "type": "text",
+      "text": "This allows you to automate a million and one things as well as make some infinite resources, rail contraptions, auto-farms, and more. Imaginiation is the limit!"
+    }
+  ]
+}

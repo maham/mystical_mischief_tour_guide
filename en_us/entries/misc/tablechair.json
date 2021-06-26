@@ -1,0 +1,19 @@
+{
+  "name": "TableChair",
+  "icon": "tablechair:stripped_jungle_chair",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This revolutionary mod by SizDizarm creates a solution to the age old Mineraft problem of 'Why can't I sit in a chair at a table like a civilized person?'  Although there is no -3 to mood buff from eating without a table, now you can meet your needs with this simple mod!"
+    },
+    {
+      "type": "text",
+      "text": "Get some wood to begin, you will need Schematics from the mod as well to craft your table/chairs."
+    },
+    {
+      "type": "text",
+      "text": "With a table/chair combo placed next to eachother, you can now sit in it without that -3 to mood debuff and virtually imagine yourself eating some breakfast scones while you play Minecraft. Huzzah!"
+    }
+  ]
+}

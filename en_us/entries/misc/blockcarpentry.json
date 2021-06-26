@@ -1,0 +1,19 @@
+{
+  "name": "BlockCarpentry",
+  "icon": "blockcarpentry:illusion_block",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Based off the Carpenter's Blocks mod this mod adds framed blocks that can be changed with any block in Minecraft."
+    },
+    {
+      "type": "text",
+      "text": "Crafted basic framed blocks with vanilla scaffolding then make slabs, stairs, doors (ect) out of them. Click on the framed block with another block of choice to make it look like another style normally not available."
+    },
+    {
+      "type": "text",
+      "text": "Illusion versions will retain a measure of 'upright'-ness giving you an alternate visual option."
+    }
+  ]
+}

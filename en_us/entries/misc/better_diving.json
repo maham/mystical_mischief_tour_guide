@@ -1,0 +1,19 @@
+{
+  "name": "Better Diving",
+  "icon": "minecraft:book",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This adds a Subnautica theme to the oceans and some of it's gear and even a minisub!"
+    },
+    {
+      "type": "text",
+      "text": "Dive underwater in oceans and break the nodes you find (even a bare hand works!) for resources."
+    },
+    {
+      "type": "text",
+      "text": "You can breathe much longer and safer underwater in a wetsuit. Combine this with your Seamoth minisub and you can stay down there forever. Just watch out for sharks and Leviathans!"
+    }
+  ]
+}

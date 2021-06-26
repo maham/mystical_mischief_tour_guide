@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "Short presentation"
+      "text": "Ars Nouveau is a magic mod that allows players to craft their own spells, create magical artifacts, perform rituals, and much more"
     },
     {
       "type": "text",
-      "text": "How to get started."
+      "text": "To start, craft a Novice Spell Book. Open it (C key) and Create a spell by selecting a Form then Effect and name it (at the bottom). Click Create. Bring up the Selection HUD (R key) and choose the spell you made. Right click to cast it from the book!"
     },
     {
       "type": "text",
-      "text": "Notable features"
+      "text": "Introduces custom spell crafting - build a spell to fit your needs, anywhere! Craft powerful new baubles and trinkets! Power magical machines! Automate your base with adorable magical servants! Really! They are freakin adorbs! :3"
     }
   ]
 }

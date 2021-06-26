@@ -1,0 +1,19 @@
+{
+  "name": "Tetra",
+  "icon": "tetra:planar_stabilizer",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Think Tinker's Construct, but more balanced.  Instead of 'leveling' your tools you 'hone' them and upgrade their abilities!"
+    },
+    {
+      "type": "text",
+      "text": "To get started build a 'Mallet' and place a Vanilla crafting table on the ground.  Right click the crafting table with your mallet and it becomes a workbench which you will use to change your vanilla weapons into Tetra gear, and then upgrade them."
+    },
+    {
+      "type": "text",
+      "text": "You will have to explore the world some to discover long forgotten forges, deep under the frozen landscape in order to progress to the higher tiers of Weapons in Tetra.  One thing of note, you will need 2 Hammers, since you will have to use one hammer to upgrade the other hammer.  Certain tiers of hammers are required to upgrade tiers of weapon parts!"
+    }
+  ]
+}

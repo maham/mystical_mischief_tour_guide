@@ -1,0 +1,19 @@
+{
+  "name": "PlayerEx",
+  "icon": "minecraft:book",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You can skill up as you gain xp and occasionally get wearable items to drop to boost your stats!"
+    },
+    {
+      "type": "text",
+      "text": "Gaining xp gets you some skill xp. Access it in the top right of your player inventory. If you have enough points you can gain some passive benefits! Killing things also has a chance of dropping helpful relics that can boost your stats too!"
+    },
+    {
+      "type": "text",
+      "text": "You can passively increase your health, damage, speed, and a ton more through skills or wearables."
+    }
+  ]
+}

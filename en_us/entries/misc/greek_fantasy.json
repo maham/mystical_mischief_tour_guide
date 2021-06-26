@@ -1,0 +1,19 @@
+{
+  "name": "Greek Fantasy",
+  "icon": "greekfantasy:gold_lyre",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This brings to being many mythical creatures and the gods that made them."
+    },
+    {
+      "type": "text",
+      "text": "Craft a mirror and an altar that aligns to the god of choice (some not yet implemented). Use the mirror to see your favor with each god and the items/mobs that you need to offer, kill, or save to gain all manner of benefits!"
+    },
+    {
+      "type": "text",
+      "text": "World structures, mobs with great loot that can be crafted into powerful artifacts, mini-bosses, summonable bosses, gods favor effects!"
+    }
+  ]
+}

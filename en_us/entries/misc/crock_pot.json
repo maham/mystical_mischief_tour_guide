@@ -1,0 +1,19 @@
+{
+  "name": "Crock Pot",
+  "icon": "crockpot:crock_pot_basic",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This mod allows you to combine foods in true 'Don't Starve' style to make some that can have great bonus effects!"
+    },
+    {
+      "type": "text",
+      "text": "Make a Crock Pot and stick a bunch of foods in there! Add fuel and see what comes out. Each food type will influence what is being made and the Crock Pot Cookbook has recipes to help!"
+    },
+    {
+      "type": "text",
+      "text": "Many of these recipes can grant any number or combination of potion effects while also sating your hunger needs!"
+    }
+  ]
+}

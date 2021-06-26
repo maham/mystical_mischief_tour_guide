@@ -1,0 +1,19 @@
+{
+  "name": "Immersive Engineering",
+  "icon": "immersiveengineering:hammer",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Immersive Engineering is a tech mod based on making massive multiblock structures with an Industrial Revolution style."
+    },
+    {
+      "type": "text",
+      "text": "Start off with making a 3x3 block of coke bricks then right clicking the centre with a engineers hammer, from there you put coal, or blocks, in to make coal coke and creosote oil, for treated wood, and the coal coke to make steel in a similar multiblock made of blast bricks."
+    },
+    {
+      "type": "text",
+      "text": "Uses wire connected by relays to transfer power rather than cables which can be powering some of the only machines in the pack like a scanner, building gadget, and most of the multiblock machines it offers (some of which can offer infinite resources, auto-craft, and more!)."
+    }
+  ]
+}

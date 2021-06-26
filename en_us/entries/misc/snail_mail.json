@@ -1,0 +1,19 @@
+{
+  "name": "Snail Mail",
+  "icon": "snailmail:envelope_closed",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Adds in a cute and simple mailing system to send messages and items to your friends."
+    },
+    {
+      "type": "text",
+      "text": "You start with a snailbox (check your bags!). Make a envenlope and put the items you want to send into it, put a stamp into its stamp spot, choose the destination and send it away!"
+    },
+    {
+      "type": "text",
+      "text": "Transfer items to or from other players via a great snail carrier!"
+    }
+  ]
+}

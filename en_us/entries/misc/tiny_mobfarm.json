@@ -1,0 +1,19 @@
+{
+  "name": "Tiny Mob Farm",
+  "icon": "tinymobfarm:iron_farm",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Did you know that the awesome mob farm you built is going to annhilate the server?  Did you know there was an alternative?  Now you do, Tiny Mob Farm to the rescue!"
+    },
+    {
+      "type": "text",
+      "text": "The recipe for the early mob farms is fairly simple, and they can farm non-hostile mobs.  Simply make the farm and craft some lassos.  After that, use the lasso to capture the creature you want to place inside the farm.  Certain mobs require higher tier farms! Explore to find the needed ingredients..."
+    },
+    {
+      "type": "text",
+      "text": "Higher tier mob farms last longer, and produce drops quicker!  You need at least an Iron Tier farm to farm any hostile mobs.  Also, many mobs are blackslisted so you can't capture/farm them all.  The final tier last forever, but it's quite the process to get there...Good luck!"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pretty Pipes",
+  "icon": "prettypipes:pipe",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This is a simple item transportation mod with some extra options to make it even more customizable."
+    },
+    {
+      "type": "text",
+      "text": "Make pipes connecting inventories then some modules to help sort items into certain locations."
+    },
+    {
+      "type": "text",
+      "text": "Combine pipes, modules,and item/crafting terminals and you can create your own sorting and crafting inventory system! One of two in the pack (the other being Occultism)."
+    }
+  ]
+}

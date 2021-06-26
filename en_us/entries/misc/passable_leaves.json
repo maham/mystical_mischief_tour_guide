@@ -1,0 +1,19 @@
+{
+  "name": "Passable Leaves",
+  "icon": "minecraft:oak_leaves",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You may have noticed that you can walk through leaves by now. If not... surprise! Also, many are fluffier and grass is everywhere thanks to these mods."
+    },
+    {
+      "type": "text",
+      "text": "Walk or fall through leaves! If you don't want to fall through them craft some leaves with a book! Place it on your boots in an avil! Voila!"
+    },
+    {
+      "type": "text",
+      "text": "You can safely disable Better Foliage if your FPS is suffering as it's a client side mod. It will make leaves and grass smooth and square like traditional Minecraft if you do. Passable Leaves offers a simple Leafwalker enchant for boots (craft any enchanted book with a leaf block) if you want to walk on the leaves like a master!"
+    }
+  ]
+}

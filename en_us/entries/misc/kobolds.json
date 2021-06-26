@@ -1,0 +1,19 @@
+{
+  "name": "Kobolds!",
+  "icon": "minecraft:book",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You may find little lizard people in the world. They are likely kobolds and most can be traded with and bred,"
+    },
+    {
+      "type": "text",
+      "text": "Similar to piglins, they can trade for emeralds and be bred with an apple (though a warrior and base type are neeeded). Trade for a kobold axe and use it on a base type to make another warrior."
+    },
+    {
+      "type": "text",
+      "text": "Kobolds hate Villagers and will defend against common threats. They can be cured like villagers and come in zombie and drowned versions. Trading can get some good stuff. Especially from an enchanter!"
+    }
+  ]
+}

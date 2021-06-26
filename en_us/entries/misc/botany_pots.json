@@ -1,0 +1,19 @@
+{
+  "name": "Botany Pots",
+  "icon": "botanypots:botany_pot",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Botany Pots adds in auto harvesting crop farming or just a pretty plant pot."
+    },
+    {
+      "type": "text",
+      "text": "Craft a botany pot with a normal pot and blocks of clay, you then get your crop you want to plant and place its respectable farmland into the pot, dirt for wheat as an example, then place in the wheat seed."
+    },
+    {
+      "type": "text",
+      "text": "Add a hopper to a pot to have it automatically deposit the mature crops into a chest underneath. Right clicking a mature crop will automatically plant and harvest a new one if not in a hopper pot."
+    }
+  ]
+}

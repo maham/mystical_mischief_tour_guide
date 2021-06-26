@@ -1,0 +1,19 @@
+{
+  "name": "Platforms",
+  "icon": "platforms:frame",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Make decks, bridges, mine shafts, or even wooden coaster supports with these customizable platforms."
+    },
+    {
+      "type": "text",
+      "text": "To get started, make the Platformer. Then add the material you want to use in the left slots, choose the platform type you want to the right of that, and grab your customized platforms from the upper right slot. Platforms can also be broken down into their original materials by placing them in the slot to the lower right of the platform type selector."
+    },
+    {
+      "type": "text",
+      "text": "If you make the wrench, you can use it to rotate, change the style, and remove railings from each platform. If you put the wrench in your offhand and platforms in your main hand, you'll see the placement overlay for easier building."
+    }
+  ]
+}

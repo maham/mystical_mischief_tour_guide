@@ -1,0 +1,19 @@
+{
+  "name": "Transport",
+  "icon": "transport:steam_locomotive",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This mod offers other ways to transport your ill gotten gains using rails, who knew?"
+    },
+    {
+      "type": "text",
+      "text": "It has several additional minecraft tracks, loaders, and carts!  In the future there will be additional support added as well for other forms of transportation."
+    },
+    {
+      "type": "text",
+      "text": "Make sure you make a 'wrench' to configure the sides of your loaders to be either 'input' or 'output' as you set up your automated empire.  The loaders support both Blocks and Entities (even Players!  Cart into a lava pit anyone?)"
+    }
+  ]
+}

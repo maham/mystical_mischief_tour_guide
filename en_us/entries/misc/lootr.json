@@ -1,0 +1,19 @@
+{
+  "name": "Lootr",
+  "icon": "minecraft:chest",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "We've all been there, new server starts and there is a mad dash to scavenge villages for their chests.  Whoever gets to the Nether first will empty the Fortresses before anyone else can, and that End ship you found after hours of searching has already been looted.  Lootr fixes that!"
+    },
+    {
+      "type": "text",
+      "text": "The starting point for Lootr is revolutionary, you find a chest, and you open it to loot it!  But guess what, every generated chest will still have Loot in it for you!!!  So don't mine those chests you find in the world, leave them so every other player on the server can get their loot from it as well.  Sharing is caring."
+    },
+    {
+      "type": "text",
+      "text": "Every Lootr chest has a texture on it that is distinct from Vanilla chests, so you will be able to tell if you have looted it or not.  We'll leave the color code up to you to find out, as I have the utmost of confidence (only on weekends) that you will be able to deduce it in no time!  But what if you forget and start to break it?  Lootr will gently remind you that other players can still get loot from this chest, and it's not cool to break it."
+    }
+  ]
+}
