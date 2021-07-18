@@ -1,0 +1,19 @@
+{
+  "name": "Building Gadgets",
+  "icon": "minecraft:book",
+  "category": "patchouli:misc",
+  "pages": [
+    {
+      "type": "text",
+      "text": "This mod allows you to exchange, build, paste, and more in any number of ways using power that you'll need from Immersive Engineering."
+    },
+    {
+      "type": "text",
+      "text": "This is one of the few gated mods. You'll need to progress some into Immersive Engineering for power and capacitors, Astral Sorcery for some of the wands it offers, and Create just for some of the cogs to get it all working together!"
+    },
+    {
+      "type": "text",
+      "text": "You can build, copy/paste, exchange, and even straight up delete blocks in any manner of customizable formats. Check your keybinds to gain access to each tool's display when using them."
+    }
+  ]
+}

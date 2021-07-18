@@ -13,7 +13,11 @@
     },
     {
       "type": "text",
-      "text": "There are numerous, highly customizeabls spell combinations you can make.  As you cast your spells you level their effectiveness, and the element assigned to them.  Cast more fire spells for example, you will become better at fire but worse at water.  The Codex Arcana has a tremendous guide on how to level your skills and knowledge into higher tier spells, but the process is not for the faint of heart.  This is because several of the high-tier spells and artifacts are locked to a certain faction, and once you join a faction there is no going back!"
+      "text": "There are numerous, highly customizeabls spell combinations you can make.  As you cast your spells you level their effectiveness, and the element assigned to them.  Cast more fire spells for example, you will become better at fire but worse at water.  The Codex Arcana has a tremendous guide on how to level your skills and knowledge into higher tier spells, but the process is not for the faint of heart."
+    },
+    {
+      "type": "text",
+      "text": "This is because several of the high-tier spells and artifacts are locked to a certain faction, and once you join a faction there is no going back!"
     }
   ]
 }
